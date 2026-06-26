@@ -12,7 +12,7 @@ La leyenda del hilo rojo es un antiguo mito de origen asiático (popular en Chin
 
 ### Imagen de referencia de proyecto
 
-(./Italiano.png)
+(./Examen/Italiano.png)
 
 ### Integrantes
 
