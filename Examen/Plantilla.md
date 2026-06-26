@@ -1,6 +1,6 @@
 ## Link de web pública (github pages)
 
-[<https://link.com>](https://matiasssss5.github.io/proyecto-pensamiento-computacional-s5/)
+[https://matiasssss5.github.io/proyecto-pensamiento-computacional-s5/]
 
 ### Título del proyecto
 
