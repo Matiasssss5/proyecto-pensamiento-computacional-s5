@@ -28,6 +28,8 @@ La persona va al supermercado a comprar todo lo necesario para comerse un rico c
 
 ### Storyboard
 
+## Storyboard
+
 ![Storyboard](https://raw.githubusercontent.com/Matiasssss5/proyecto-pensamiento-computacional-s5/main/Storyboard.jpg)
 
 ### Estados
