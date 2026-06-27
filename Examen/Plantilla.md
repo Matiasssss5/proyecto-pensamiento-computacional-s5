@@ -28,7 +28,7 @@ La persona va al supermercado a comprar todo lo necesario para comerse un rico c
 
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+![Storyboard](https://raw.githubusercontent.com/Matiasssss5/proyecto-pensamiento-computacional-s5/main/Storyboard.jpg)
 
 ### Estados
 
